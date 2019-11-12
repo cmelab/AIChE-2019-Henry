@@ -19,6 +19,10 @@ Epoxy reaction methods using a hoomd plugin, enabling for the first time stochas
 - [Reacting epoxy paper](https://www.worldscientific.com/doi/10.1142/S0219633618400059)
 - [Epoxpy repository](https://bitbucket.org/cmelab/epoxpy/src/dev/)
 
+Need a tool that can manage thousands of simulations/state points and support arbitrary workflows? Then you need the Signac framework!
+
+- [Signac Framework](https://signac.io/)
+
 ## Poster Design 
 
 Like the way the poster looks? Me too! I've linked below a youtube video that explains the design methodology and there is a template in the description of the youtube video.
