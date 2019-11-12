@@ -7,6 +7,7 @@ Paper on how coarse-graining reduces cognitive load and degrees of freedom, maki
 - [Perspective paper on coarse-graining, cognitive load, and materials simulation](https://www.sciencedirect.com/science/article/pii/S0927025619304203)
 
 System initialization, atom typing, force field schema and more! All with a convenient python API ✨🐍✨.
+Make your simulations [TRUE (*t*ransferability, *r*eproducibility, *u*sability, and *e*xtensibility)](https://doi.org/10.6084/m9.figshare.8966312) with the MoSDeF framework!
 
 - [ Molecular Simulation Design Framework (MoSDeF)](https://mosdef.org/)
 
