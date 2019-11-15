@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/220326339.svg)](https://zenodo.org/badge/latestdoi/220326339)
+
 # AIChE-2019-Henry
 
 ## Paper & Tools
